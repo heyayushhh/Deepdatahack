@@ -111,6 +111,6 @@ We used:
 
 ## 📬 Contact
 
-For any questions or issues, open an issue or contact your-ayushkrsna01@gmail.com.
+For any questions or issues, open an issue or contact ayushkrsna01@gmail.com.
 
 ---
